@@ -1,0 +1,27 @@
+{
+  "name": "skolmi-referidos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.8.4",
+    "nodemon": "^3.1.9",
+    "path": "^0.12.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JCodeMasterJ-2/Skolmi-Referidos.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JCodeMasterJ-2/Skolmi-Referidos/issues"
+  },
+  "homepage": "https://github.com/JCodeMasterJ-2/Skolmi-Referidos#readme",
+  "description": ""
+}
